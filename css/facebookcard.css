@@ -12,14 +12,17 @@
   .fbcard {
     margin-left: 1rem;
     margin-top: 4rem;
-    width: 24rem;
+    width: 25rem;
   }
   .card-link {
     font-size: 0.9rem;
     margin-right: 0;
   }
   .reactbutton a {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
+  }
+  .reactbutton .reactions {
+    font-size: 0.7rem;
   }
 }
 
@@ -27,14 +30,17 @@
   .fbcard {
     margin-left: 1rem;
     margin-top: 4rem;
-    width: 24rem;
+    width: 25rem;
   }
   .card-link {
     font-size: 0.9rem;
     margin-right: 0;
   }
   .reactbutton a {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
+  }
+  .reactbutton .reactions {
+    font-size: 0.7rem;
   }
 }
 
@@ -42,14 +48,17 @@
   .fbcard {
     margin-left: 1rem;
     margin-top: 4rem;
-    width: 24rem;
+    width: 25rem;
   }
   .card-link {
     font-size: 0.9rem;
     margin-right: 0;
   }
   .reactbutton a {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
+  }
+  .reactbutton .reactions {
+    font-size: 0.7rem;
   }
 }
 /*# sourceMappingURL=facebookcard.css.map */
