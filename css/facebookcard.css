@@ -1,0 +1,55 @@
+.fbcard {
+  margin-left: 5rem;
+  margin-top: 4rem;
+  width: 32rem;
+}
+
+.card-link {
+  margin-right: 3rem;
+}
+
+@media only screen and (max-width: 1200px) {
+  .fbcard {
+    margin-left: 1rem;
+    margin-top: 4rem;
+    width: 21rem;
+  }
+  .card-link {
+    font-size: 0.9rem;
+    margin-right: 0;
+  }
+  .reactbutton a {
+    font-size: 0.9rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .fbcard {
+    margin-left: 1rem;
+    margin-top: 4rem;
+    width: 21rem;
+  }
+  .card-link {
+    font-size: 0.9rem;
+    margin-right: 0;
+  }
+  .reactbutton a {
+    font-size: 0.9rem;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .fbcard {
+    margin-left: 1rem;
+    margin-top: 4rem;
+    width: 21rem;
+  }
+  .card-link {
+    font-size: 0.9rem;
+    margin-right: 0;
+  }
+  .reactbutton a {
+    font-size: 0.9rem;
+  }
+}
+/*# sourceMappingURL=facebookcard.css.map */
