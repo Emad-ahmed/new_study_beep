@@ -30,4 +30,34 @@
   border: 1px solid #33b5e5;
   padding: 0.4rem;
 }
+
+@media only screen and (max-width: 1200px) {
+  .postview {
+    padding-top: 10rem;
+    padding-left: 1.5rem;
+  }
+  .postinput {
+    width: 60rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .postview {
+    padding-top: 10rem;
+    padding-left: 1.5rem;
+  }
+  .postinput {
+    width: 60rem;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .postview {
+    padding-top: 10rem;
+    padding-left: 1.5rem;
+  }
+  .postinput {
+    width: 60rem;
+  }
+}
 /*# sourceMappingURL=post.css.map */
